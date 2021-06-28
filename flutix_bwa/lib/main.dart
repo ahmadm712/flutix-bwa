@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
           BlocProvider(create: (_) => UserBloc())
         ],
         child: MaterialApp(
-            title: 'Flutter Demo',
+            title: 'Ahmad Muji',
             debugShowCheckedModeBanner: false,
             theme: ThemeData(
               primarySwatch: Colors.blue,
